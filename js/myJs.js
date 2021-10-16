@@ -1,16 +1,16 @@
 const textConfig = {
   text1: "Hê luu Huệ!",
-  text2: "Tớ có món quà này muốn tặng cậu 20/10,nhớ phải nhận nhaaa.",
+  text2: "Tớ có món quà bí mật này muốn tặng cậu 20/10, nhớ phải nhận nhaaa.",
   text3: "Trước tiên cậu có quý tớ không nào ._.",
   text4: "Nếu cậu ko trả lời mà thoát ra tức là không nhận được quà nữa nha :v",
   text5: "Cậu mơ à???",
-  text6: "Yêu ơi là yêu <3",
-  text7: "Lí do cậu quý tớ đi :vvvv",
+  text6: "Có chứ <3",
+  text7: "Thế lí do là gì thế :vvvv",
   text8: "Gửi đi nào <3",
-  text9: "Vì cậu đẹp try vlllll",
-  text10: "Tớ biết mà ^^ Yêu cậu 3000",
+  text9: "Yêu mà cần lí do à <3",
+  text10: "Tớ biết mà ^-^ ",
   text11:
-    "Còn đây là món quà. Chúc cậu có một ngày thật ý nghĩa",
+    "Chúc cậu có một ngày 20/10 vui vẻ. Còn muốn biết quà là gì thì ib nhó <3",
   text12: "From Chiến with love <3",
 };
 
