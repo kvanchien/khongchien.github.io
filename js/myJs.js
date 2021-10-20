@@ -11,7 +11,7 @@ const textConfig = {
   text10: "Tớ biết mà ^-^ ",
   text11:
     "Chúc cậu có một ngày 20/10 vui vẻ. Còn muốn biết quà là gì thì ib nhó <3",
-  text12: "From Chiến with love <3",
+  text12: "From Chiến đẹp trai <3",
 };
 
 $(document).ready(function () {
